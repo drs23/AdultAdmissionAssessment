@@ -1,0 +1,3 @@
+# Overview
+
+Electronic nursing documentation is an essential aspect of inpatient care and multidisciplinary communication. Analysing data in electronic medical record (eMR) systems can assist in understanding clinical workflows, improving care quality, and promoting efficiency in the healthcare system. This study aims to assess timeliness of completion of an electronic nursing admission assessment form and identify patient and facility factors associated with form completion in three metropolitan hospitals. 
